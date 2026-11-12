@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to https://www.safenido.fr"
+title: "Child Road Deaths In Europe 1999-2024"
+type: dataset
+doi: "10.5281/zenodo.24154221"
+authors:
+  - name: "Safe Nido"
+    website: "https://www.safenido.fr"
+version: "1.0"
+date-released: "2026-11-12"
+license: CC-BY-4.0
+repository-code: "https://github.com/safenido/europe-child-road-deaths"
+url: "https://www.safenido.fr/"
+keywords:
+  - road-safety
+  - child-safety
+  - europe
+  - eurostat
+  - traffic-accidents
+  - public-health
+  - open-data
